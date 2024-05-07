@@ -1,5 +1,5 @@
 # nvim-config
-personal nvim config
+Requires nvim version `0.9.0` and greater
 
 Steps:
 1. `rm -rf ~/.config/nvim`
